@@ -1,0 +1,22 @@
+[
+    [
+        "cluster_name",
+        "docker-cluster"
+    ],
+    [
+        "status",
+        "green"
+    ],
+    [
+        "timed_out",
+        false
+    ],
+    [
+        "number_of_nodes",
+        1
+    ],
+    [
+        "number_of_data_nodes",
+        1
+    ]
+]

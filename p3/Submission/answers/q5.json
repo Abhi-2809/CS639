@@ -1,0 +1,195 @@
+{
+    "took": 43,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 22,
+            "relation": "eq"
+        },
+        "max_score": 1.6946381,
+        "hits": [
+            {
+                "_index": "madmap",
+                "_id": "AaBip5UB0Nge-wGDVK0v",
+                "_score": 1.6946381,
+                "_source": {
+                    "title": "Wisconsin Badgers host Alabama, anticipation builds in Madison"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "ZqBip5UB0Nge-wGDVK0v",
+                "_score": 1.6946381,
+                "_source": {
+                    "title": "Wisconsin Badgers host Alabama, anticipation builds in Madison"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "_aBip5UB0Nge-wGDVKwv",
+                "_score": 1.5152969,
+                "_source": {
+                    "title": "Alabama vs. Wisconsin Odds, Best Bets: Crimson Tide Favored in Madison"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "AqBip5UB0Nge-wGDVK0v",
+                "_score": 1.5152969,
+                "_source": {
+                    "title": "News: FOX\u2019s Big Noon Kickoff to visit Madison, Wisconsin on Saturday"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "A6Bip5UB0Nge-wGDVK0v",
+                "_score": 1.5152969,
+                "_source": {
+                    "title": "ESPN\u2019s College GameDay will not visit Madison for Wisconsin vs. Alabama"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "YqBip5UB0Nge-wGDVK0v",
+                "_score": 1.5152969,
+                "_source": {
+                    "title": "Alabama vs. Wisconsin Odds, Best Bets: Crimson Tide Favored in Madison"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "Z6Bip5UB0Nge-wGDVK0v",
+                "_score": 1.5152969,
+                "_source": {
+                    "title": "News: FOX\u2019s Big Noon Kickoff to visit Madison, Wisconsin on Saturday"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "aKBip5UB0Nge-wGDVK0v",
+                "_score": 1.5152969,
+                "_source": {
+                    "title": "ESPN\u2019s College GameDay will not visit Madison for Wisconsin vs. Alabama"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "EaBip5UB0Nge-wGDVK0v",
+                "_score": 1.4636643,
+                "_source": {
+                    "title": "Purdue football vs. Wisconsin grades: Boilers' downward spiral continues in Madison meltdown"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "d6Bip5UB0Nge-wGDVK0v",
+                "_score": 1.4636643,
+                "_source": {
+                    "title": "Purdue football vs. Wisconsin grades: Boilers' downward spiral continues in Madison meltdown"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "BqBip5UB0Nge-wGDVK0v",
+                "_score": 1.3702817,
+                "_source": {
+                    "title": "Wisconsin top-10 class of 2026 running back target to visit Madison this weekend"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "CKBip5UB0Nge-wGDVK0v",
+                "_score": 1.3702817,
+                "_source": {
+                    "title": "Drone view of Camp Randall Stadium in Madison, the home of Wisconsin Badgers Football"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "bKBip5UB0Nge-wGDVK0v",
+                "_score": 1.3702817,
+                "_source": {
+                    "title": "Wisconsin top-10 class of 2026 running back target to visit Madison this weekend"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "bqBip5UB0Nge-wGDVK0v",
+                "_score": 1.3702817,
+                "_source": {
+                    "title": "Drone view of Camp Randall Stadium in Madison, the home of Wisconsin Badgers Football"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "EKBip5UB0Nge-wGDVK0v",
+                "_score": 1.3279207,
+                "_source": {
+                    "title": "Is Fox's 'Big Noon Kickoff' coming to Madison when the Badgers play Alabama on Saturday?"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "FaBip5UB0Nge-wGDVK0v",
+                "_score": 1.3279207,
+                "_source": {
+                    "title": "Wisconsin-Alabama reader predictions show little optimism for the Badgers in Saturday's game in Madison"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "dqBip5UB0Nge-wGDVK0v",
+                "_score": 1.3279207,
+                "_source": {
+                    "title": "Is Fox's 'Big Noon Kickoff' coming to Madison when the Badgers play Alabama on Saturday?"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "e6Bip5UB0Nge-wGDVK0v",
+                "_score": 1.3279207,
+                "_source": {
+                    "title": "Wisconsin-Alabama reader predictions show little optimism for the Badgers in Saturday's game in Madison"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "DqBip5UB0Nge-wGDVK0v",
+                "_score": 1.2881002,
+                "_source": {
+                    "title": "What are ticket prices for Wisconsin football vs Alabama game at Camp Randall Stadium in Madison?"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "dKBip5UB0Nge-wGDVK0v",
+                "_score": 1.2881002,
+                "_source": {
+                    "title": "What are ticket prices for Wisconsin football vs Alabama game at Camp Randall Stadium in Madison?"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "HaBip5UB0Nge-wGDVK0v",
+                "_score": 1.2152188,
+                "_source": {
+                    "title": "Rapper Offset coming to Madison Saturday to perform for 'Big Noon Kickoff' ahead of Wisconsin-Alabama football game"
+                }
+            },
+            {
+                "_index": "madmap",
+                "_id": "g6Bip5UB0Nge-wGDVK0v",
+                "_score": 1.2152188,
+                "_source": {
+                    "title": "Rapper Offset coming to Madison Saturday to perform for 'Big Noon Kickoff' ahead of Wisconsin-Alabama football game"
+                }
+            }
+        ]
+    }
+}
